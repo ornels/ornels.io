@@ -1,29 +1,55 @@
+## Professional Experience
+
+**Data Analyst** @ ZDF-Digital Media Production (Jul 2023 - Present)
+- Automated financial reporting with SQL/BigQuery, reducing manual effort by 60%  
+- Optimized database consolidation through clustering/classification for text similarity  
+- Implemented NLP models for sentiment analysis and content optimization strategies
+- Conducted in-depth competitive analysis to evaluate keywords, topics, and video performance
+
+**Data Consultant** @ TD Reply (Jan 2023 - Jun 2023)  
+- Leveraged geoanalytics to drive 30% increase in targeted food product sales
+- Delivered growth strategies through market/competitor analysis and Tableau dashboards
+- Cleaned and processed large datasets for machine learning using Excel, SQL, Python
+
+**Lead Research Coordinator** @ University of Washington (Mar 2021 - Apr 2022)
+- Led 600+ participant study, enforcing data integrity protocols 
+- Performed regression analysis in SPSS to identify depression risk factors
+- Automated reporting with Excel PivotTables for study metrics
+
+**Research Technician II** @ Seattle Children's Institute (Jul 2019 - Mar 2021)  
+- Tested hypotheses using MATLAB statistical techniques (t-tests, ANOVA)
+- Authored manuscript with data visualizations to communicate research insights
+- Optimized $2M+ budget through statistical analysis of lab reagents
+
+**Research Specialist I** @ Princeton University (Sep 2017 - Jun 2019)
+- Developed MATLAB scripts for data extraction, cleaning, and preprocessing
+- Designed visualizations to present complex findings to cross-functional teams  
+- Contributed data-driven insights across projects, resulting in 3 co-authored publications
+
+
+
+
 ## Portfolio
 
----
+**XGBoost Predictive Model for Depression Risk** (Master's Thesis, Feb 2024)
+- Engineered high-accuracy (0.923) XGBoost model for depression risk using multi-source data
+- Achieved robust performance with AUC up to 0.78 across income groups
+- Conducted SHAP analysis identifying sleep, alcohol, and gender as primary risk factors
 
-### Category Name 1 
+**User Trend Analysis on Physical Activity** (Personal Project, Online Certification, Aug 2022)  
+- Analyzed user data with Excel PivotTables to uncover fitness product usage trends
+- Performed statistical analysis to highlight significant trends for product usability
+- Designed interactive Tableau dashboard to visualize data and influence marketing strategies
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Netflix Series/Movie Analysis** (Personal Project, Jun 2022)
+- Utilized SQL for exploratory analysis on Netflix content to discover patterns/insights
+- Performed data cleaning to ensure validity and accuracy of analysis results
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Mental Health Correlation Analysis** (Independent Research, Oct 2021)
+- Preprocessed survey data in Excel, handling missing values and discrepancies  
+- Implemented regression analysis in SPSS to uncover factor relationships with mental health
+- Provided technical consulting on leveraging data technologies for the client
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 ## Publications

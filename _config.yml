@@ -3,6 +3,8 @@ logo: "/images/linkedin.jpeg?raw=true" # your photo (or logo) here
 description: > 
   <br><br>
   <a href="https://www.linkedin.com/in/sharon-ornelas-gonzalez-298517126/">View My LinkedIn Profile</a>  
+  <a href="https://github.com/ornels/Portfolio">View My Github</a>  
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

@@ -67,7 +67,3 @@
 
 6. Coffey, D. G., Wu, Q. V., Towlerton, A. M., Ornelas, S., Morales, A. J., Xu, Y., ... & Warren, E. H. (2019). Ultradeep, targeted sequencing reveals distinct mutations in blood compared to matched bone marrow among patients with multiple myeloma. Blood cancer journal, 9(10), 1-4.
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

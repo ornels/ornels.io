@@ -1,13 +1,13 @@
 ## Professional Experience
 
-**Data Analyst** @ ZDF-Digital Media Production (Jul 2023 - Present)
+**Data Analyst** @ ZDF-Digital Media Production (Jul 2023 - Apr 2024)
 - Automated financial reporting with SQL/BigQuery, reducing manual effort by 60%  
 - Optimized database consolidation through clustering/classification for text similarity  
 - Implemented NLP models for sentiment analysis and content optimization strategies
 - Conducted in-depth competitive analysis to evaluate keywords, topics, and video performance
 
 **Data Consultant** @ TD Reply (Jan 2023 - Jun 2023)  
-- Leveraged geoanalytics to drive 30% increase in targeted food product sales
+- Leveraged geoanalytics to drive increase in targeted food product sales
 - Delivered growth strategies through market/competitor analysis and Tableau dashboards
 - Cleaned and processed large datasets for machine learning using Excel, SQL, Python
 
